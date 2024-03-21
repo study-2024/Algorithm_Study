@@ -1,3 +1,4 @@
+# 구간 합 구하기 1
 import sys
 input = sys.stdin.readline
 suNo, quizNo = map(int, input().split())
