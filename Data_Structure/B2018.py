@@ -1,3 +1,4 @@
+# 연속된 자연수의 합 구하기
 n = int(input())
 count = 1
 start_index = 1
